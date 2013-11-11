@@ -1,0 +1,47 @@
+{
+    "Shows": {
+        "Modern Family": [
+            "modern.family",
+            "modern family",
+			"modernfamily"
+        ],
+        "Arrested Development": [
+            "arrested development",
+            "arrested.development",
+			"arresteddevelopment"
+        ],
+		"The Big Bang Theory": [
+			"thebigbangtheory",
+			"the.big.bang.theory",
+			"the big bang theory"
+		],
+        "Dexter": [
+            "dexter"
+        ],
+        "Top Gear": [
+            "top.gear",
+            "top gear",
+            "top_gear",
+			"topgear"
+        ],
+        "Desperate Housewives": [
+            "desperate housewives",
+            "desperate.housewives",
+            "desperate_housewives",
+			"desperatehousewives"
+        ],
+        "Mad Men": [
+            "mad.men",
+            "mad men",
+            "mad_men",
+			"madmen"
+        ]
+    },
+    "Extensions": [
+        "*.mp4",
+        "*.avi",
+        "*.mkv",
+        "*.rm",
+        "*.m4v"
+    ]
+}
