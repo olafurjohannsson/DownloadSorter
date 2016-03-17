@@ -1,7 +1,7 @@
 <h1>
 Download folder categorizer
 </h1>
-Olafur Johannsson - olafurjoh@ru.is
+Olafur Johannsson
 
 <hr />
 <h2>
